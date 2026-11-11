@@ -2,85 +2,74 @@
   "movies": [
     {
       "id": 1,
-      "title": "Parasakthi",
-      "year": 2026,
-      "quality": "4K",
-      "language": "Hindi Dual",
-      "category": "South Hindi",
-      "genres": ["Action", "Drama"],
-      "poster": "https://via.placeholder.com/300x450/1a1a2e/eee?text=Parasakthi",
-      "description": "Action drama film with dual audio.",
+      "title": "Night of the Living Dead",
+      "year": 1968,
+      "quality": "720p",
+      "language": "English",
+      "category": "Horror",
+      "genres": ["Horror", "Classic"],
+      "poster": "https://via.placeholder.com/300x450/111/eee?text=Night+of+the+Living+Dead",
+      "description": "Classic public domain zombie film. Fully legal to download and share.",
       "urls": {
-        "4K": "https://example.com/parasakthi-4k.mp4",
-        "1080p": "https://example.com/parasakthi-1080p.mp4",
-        "720p": "https://example.com/parasakthi-720p.mp4",
-        "480p": "https://example.com/parasakthi-480p.mp4"
+        "Direct": "https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4"
       }
     },
     {
       "id": 2,
-      "title": "Ramayana: Rise of a Legend",
-      "year": 2026,
-      "quality": "1080p",
-      "language": "Multi Audio",
-      "category": "Bollywood",
-      "genres": ["Action", "Adventure", "Fantasy"],
-      "poster": "https://via.placeholder.com/300x450/16213e/eee?text=Ramayana",
-      "description": "Epic tale of the legendary journey.",
+      "title": "A Star is Born",
+      "year": 1937,
+      "quality": "SD",
+      "language": "English",
+      "category": "Drama",
+      "genres": ["Drama", "Classic"],
+      "poster": "https://via.placeholder.com/300x450/222/eee?text=A+Star+is+Born",
+      "description": "Original 1937 version. Public domain classic.",
       "urls": {
-        "1080p": "https://example.com/ramayana-1080p.mp4",
-        "720p": "https://example.com/ramayana-720p.mp4",
-        "480p": "https://example.com/ramayana-480p.mp4"
+        "Direct": "https://archive.org/download/public-domain/AStarIsBorn_512kb.mp4"
       }
     },
     {
       "id": 3,
-      "title": "The Body",
-      "year": 2026,
-      "quality": "4K",
-      "language": "Hindi Dual",
-      "category": "WEB Series",
-      "genres": ["Thriller", "Mystery"],
-      "poster": "https://via.placeholder.com/300x450/0f3460/eee?text=The+Body",
-      "description": "Season 1 - Mystery thriller series.",
+      "title": "House on Haunted Hill",
+      "year": 1959,
+      "quality": "SD",
+      "language": "English",
+      "category": "Horror",
+      "genres": ["Horror", "Mystery"],
+      "poster": "https://via.placeholder.com/300x450/333/eee?text=House+on+Haunted+Hill",
+      "description": "Vincent Price classic. Public domain.",
       "urls": {
-        "4K": "https://example.com/thebody-s1-4k.mp4",
-        "1080p": "https://example.com/thebody-s1-1080p.mp4",
-        "720p": "https://example.com/thebody-s1-720p.mp4"
+        "Direct": "https://archive.org/download/public-domain/house_on_haunted_hill_512kb.mp4"
       }
     },
     {
       "id": 4,
-      "title": "Jailer 2",
-      "year": 2026,
-      "quality": "1080p",
-      "language": "Multi Audio",
-      "category": "South Hindi",
-      "genres": ["Action", "Comedy"],
-      "poster": "https://via.placeholder.com/300x450/533483/eee?text=Jailer+2",
-      "description": "Sequel action comedy.",
+      "title": "The Terror",
+      "year": 1963,
+      "quality": "SD",
+      "language": "English",
+      "category": "Horror",
+      "genres": ["Horror", "Classic"],
+      "poster": "https://via.placeholder.com/300x450/444/eee?text=The+Terror",
+      "description": "Roger Corman / Boris Karloff film. Public domain.",
       "urls": {
-        "1080p": "https://example.com/jailer2-1080p.mp4",
-        "720p": "https://example.com/jailer2-720p.mp4",
-        "480p": "https://example.com/jailer2-480p.mp4"
+        "Direct": "https://archive.org/download/public-domain/TheTerror_512kb.mp4"
       }
     },
     {
       "id": 5,
-      "title": "VisionQuest",
-      "year": 2026,
-      "quality": "4K",
-      "language": "Hindi Dual",
-      "category": "Disney+",
-      "genres": ["Adventure", "Sci-Fi"],
-      "poster": "https://via.placeholder.com/300x450/1a1a2e/eee?text=VisionQuest",
-      "description": "Season 1 Disney series.",
+      "title": "Dementia 13",
+      "year": 1963,
+      "quality": "SD",
+      "language": "English",
+      "category": "Horror",
+      "genres": ["Horror", "Thriller"],
+      "poster": "https://via.placeholder.com/300x450/555/eee?text=Dementia+13",
+      "description": "Francis Ford Coppola's early horror. Public domain.",
       "urls": {
-        "4K": "https://example.com/visionquest-4k.mp4",
-        "1080p": "https://example.com/visionquest-1080p.mp4",
-        "720p": "https://example.com/visionquest-720p.mp4"
+        "Direct": "https://archive.org/download/public-domain/Dementia13_512kb.mp4"
       }
     }
   ],
-  "categories": ["Bollywood", "Hollywood", "South Hindi", "WEB Series", "Netflix", "Disney+", "Amazon", "Action", "Thriller", "Comedy"]
+  "categories": ["Horror", "Drama", "Classic", "Thriller", "All"]
 }

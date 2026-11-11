@@ -1,18 +1,16 @@
 # Movie Hub
 
-Clean static frontend for HD Movies & Series.
+Clean static frontend. All movie data and video URLs live in `movies.json`.
 
-## Structure
-- `index.html` - Main page
-- `style.css` - Dark theme styling
-- `app.js` - Loads movies from JSON, search, filter, modal
-- `movies.json` - All video data and URLs
+## Current data
+Uses public-domain titles with working direct links from archive.org (Night of the Living Dead, A Star is Born 1937, House on Haunted Hill, etc.).
 
-## Deploy to GitHub Pages
-1. Push this repo.
-2. Go to Settings > Pages.
-3. Source: Deploy from a branch, select main / root.
-4. Site will be live at `https://yvzfm.github.io/movie-hub/`
+## Deploy
+Already pushed to https://github.com/yvzfm/movie-hub
 
-## Add more movies
-Edit `movies.json` and push. Frontend stays clean.
+Enable GitHub Pages: Settings → Pages → Deploy from branch `main` / root.
+
+Site: https://yvzfm.github.io/movie-hub/
+
+## Adding titles
+Edit `movies.json`, commit, push. Frontend stays untouched.
