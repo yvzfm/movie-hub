@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movie Hub - HD Movies & Series</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Movie Hub</h1>
+      <p class="tagline">Download HD Movies & TV Shows</p>
+      <div class="search-bar">
+        <input type="text" id="search" placeholder="Search movies, series...">
+      </div>
+    </div>
+  </header>
+
+  <nav class="categories">
+    <div class="container">
+      <button class="cat-btn active" data-cat="all">All</button>
+      <!-- categories filled by JS -->
+    </div>
+  </nav>
+
+  <main class="container">
+    <h2>Latest Releases</h2>
+    <div id="movie-grid" class="grid"></div>
+  </main>
+
+  <!-- Modal -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+      <p>Static frontend. Data from movies.json. Deployed on GitHub Pages.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

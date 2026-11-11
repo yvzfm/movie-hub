@@ -1,0 +1,86 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Parasakthi",
+      "year": 2026,
+      "quality": "4K",
+      "language": "Hindi Dual",
+      "category": "South Hindi",
+      "genres": ["Action", "Drama"],
+      "poster": "https://via.placeholder.com/300x450/1a1a2e/eee?text=Parasakthi",
+      "description": "Action drama film with dual audio.",
+      "urls": {
+        "4K": "https://example.com/parasakthi-4k.mp4",
+        "1080p": "https://example.com/parasakthi-1080p.mp4",
+        "720p": "https://example.com/parasakthi-720p.mp4",
+        "480p": "https://example.com/parasakthi-480p.mp4"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Ramayana: Rise of a Legend",
+      "year": 2026,
+      "quality": "1080p",
+      "language": "Multi Audio",
+      "category": "Bollywood",
+      "genres": ["Action", "Adventure", "Fantasy"],
+      "poster": "https://via.placeholder.com/300x450/16213e/eee?text=Ramayana",
+      "description": "Epic tale of the legendary journey.",
+      "urls": {
+        "1080p": "https://example.com/ramayana-1080p.mp4",
+        "720p": "https://example.com/ramayana-720p.mp4",
+        "480p": "https://example.com/ramayana-480p.mp4"
+      }
+    },
+    {
+      "id": 3,
+      "title": "The Body",
+      "year": 2026,
+      "quality": "4K",
+      "language": "Hindi Dual",
+      "category": "WEB Series",
+      "genres": ["Thriller", "Mystery"],
+      "poster": "https://via.placeholder.com/300x450/0f3460/eee?text=The+Body",
+      "description": "Season 1 - Mystery thriller series.",
+      "urls": {
+        "4K": "https://example.com/thebody-s1-4k.mp4",
+        "1080p": "https://example.com/thebody-s1-1080p.mp4",
+        "720p": "https://example.com/thebody-s1-720p.mp4"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Jailer 2",
+      "year": 2026,
+      "quality": "1080p",
+      "language": "Multi Audio",
+      "category": "South Hindi",
+      "genres": ["Action", "Comedy"],
+      "poster": "https://via.placeholder.com/300x450/533483/eee?text=Jailer+2",
+      "description": "Sequel action comedy.",
+      "urls": {
+        "1080p": "https://example.com/jailer2-1080p.mp4",
+        "720p": "https://example.com/jailer2-720p.mp4",
+        "480p": "https://example.com/jailer2-480p.mp4"
+      }
+    },
+    {
+      "id": 5,
+      "title": "VisionQuest",
+      "year": 2026,
+      "quality": "4K",
+      "language": "Hindi Dual",
+      "category": "Disney+",
+      "genres": ["Adventure", "Sci-Fi"],
+      "poster": "https://via.placeholder.com/300x450/1a1a2e/eee?text=VisionQuest",
+      "description": "Season 1 Disney series.",
+      "urls": {
+        "4K": "https://example.com/visionquest-4k.mp4",
+        "1080p": "https://example.com/visionquest-1080p.mp4",
+        "720p": "https://example.com/visionquest-720p.mp4"
+      }
+    }
+  ],
+  "categories": ["Bollywood", "Hollywood", "South Hindi", "WEB Series", "Netflix", "Disney+", "Amazon", "Action", "Thriller", "Comedy"]
+}
